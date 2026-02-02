@@ -5,6 +5,9 @@
 *.tmp
 *.temp
 
+# macOS
+.DS_Store
+
 # Windows
 Thumbs.db
 Desktop.ini
